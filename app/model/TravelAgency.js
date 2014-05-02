@@ -28,7 +28,7 @@ Ext.define("TravelAgency.model.TravelAgency", {
 			enablePagingParams: false,
 			withCredentials: true,	
 			username: 'P1940517116',
-			password: 'Papamama18',
+			password: 'Password',
 			url: "http://ASPSGPLR81BC0G/sapgw/sap/opu/odata/IWFND/RMTSAMPLEFLIGHT/TravelagencyCollection",
 			
 			listeners: {
